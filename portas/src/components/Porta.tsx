@@ -1,5 +1,6 @@
-import PortaModel from "../model/porta"
-import styles from "../styles/Porta.module.css"
+import '../app/globals.css'
+import PortaModel from "@/model/porta"
+import styles from "@/styles/Porta.module.css"
 import Presente from "./Presente"
 
 
